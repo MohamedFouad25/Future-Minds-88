@@ -1,0 +1,13 @@
+{
+  "name": "future-minds-academy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^8.3.1"
+  }
+}
